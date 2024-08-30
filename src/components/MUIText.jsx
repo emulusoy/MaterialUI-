@@ -1,5 +1,5 @@
 import { TextField } from "@mui/material"
-import InputAdornment from '@mui/material/InputAdornment';
+
 function MUIText() {
   return (
     <div>
